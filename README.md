@@ -23,8 +23,8 @@
 
 :key: Default password and username is mentioned below.
 
-- Username : harsha
-- Password : harsha
+- Username : purushotham
+- Password : purushotham
 
 ---
 
